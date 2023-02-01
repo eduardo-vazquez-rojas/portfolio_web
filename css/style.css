@@ -260,7 +260,7 @@ nav ul li a {
   font-weight: 700;
   margin-bottom: 10px;
   text-transform: uppercase;
-  color: #fff;
+  color: #000;
 }
 
 .header-content p {
@@ -269,7 +269,7 @@ nav ul li a {
   margin-top: 0;
   margin-bottom: 30px;
   text-transform: capitalize;
-  color: #fff;
+  color: #000;
   font-weight: 500;
 }
 
@@ -279,7 +279,7 @@ nav ul li a {
 }
 
 .header-content .list-social li i {
-  color: #fff;
+  color: #000;
   font-size: 15px;
 }
 
@@ -296,7 +296,7 @@ nav ul li a {
 
 #about .div-img-bg {
   padding-bottom: 30px;
-  border: 20px solid #b8a07e;
+  border: 20px solid #000000;
 }
 
 #about .div-img-bg .about-img img {
@@ -315,9 +315,9 @@ nav ul li a {
 }
 
 #about .about-descr .separator {
-  max-width: 80%;
+  max-width: 100%;
   margin-bottom: 0;
-  text-align: left;
+  text-align: justify;
 }
 
 /*-----------------------------------------------------------------------------------*/
